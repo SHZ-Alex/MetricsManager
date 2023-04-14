@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetricsManager", "MetricsManager\MetricsManager.csproj", "{F92910EB-CE98-4AB2-8C44-4B69D3295317}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetricsAgent", "MetricsAgent\MetricsAgent.csproj", "{F40E9EE4-91EF-4135-A27A-E39213A97365}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F92910EB-CE98-4AB2-8C44-4B69D3295317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F92910EB-CE98-4AB2-8C44-4B69D3295317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F92910EB-CE98-4AB2-8C44-4B69D3295317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F92910EB-CE98-4AB2-8C44-4B69D3295317}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F40E9EE4-91EF-4135-A27A-E39213A97365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F40E9EE4-91EF-4135-A27A-E39213A97365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F40E9EE4-91EF-4135-A27A-E39213A97365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F40E9EE4-91EF-4135-A27A-E39213A97365}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89F6C4E6-C1EC-4B0F-A917-871623F7CB59}
+	EndGlobalSection
+EndGlobal
